@@ -1,0 +1,12 @@
+{
+  "name": "pa8",
+  "version": "0.0.1",
+  "description": "CS538 Programming Assignment #8",
+  "author": "Kaiser Pister",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "immutable": "^4.3.4",
+    "tree-sitter": "0.20.6",
+    "tree-sitter-javascript": "0.20.1"
+  }
+}

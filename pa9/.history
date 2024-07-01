@@ -1,0 +1,100 @@
+[1]
+[]
+f
+let f (x:xs) = 2
+f
+let f (x:xs) = 2
+x
+let x = [1,2 ]
+x
+let x = [1, 2]
+f
+let f (x:xs) = 3
+f
+let f (x:xs) = 3
+let f (x:xs) 3
+f [3]
+let f (x:xs) =3
+f [1, 2]
+let f (x:xs)= 2
+let f (x:xs) = 
+let f (x:xs)
+let f (x:xs) = 3
+let f x:xs = 3
+let f (x:xs) = 3
+f 1
+f 
+let f 1 = 2
+let f (x:xs) = 3
+let f (x:xs) = 3
+f 1
+g 2
+let g 2 = 2
+let f 1 = 1
+let f c:cs = c
+f [True, False]
+let f c:xd = True
+f [3] 3
+let g vd = 4
+let f s:os 3 = 3
+f 1
+f 0
+let f 0 = 0
+f False
+f False
+let f False = 3
+let f 1 = 1
+let f False = 1
+ f 2
+f 1
+let f 2 = 2
+let f 1 = 1
+f 3
+f False
+f false
+let f false = 3
+let f 1 = 1
+let f False = 3
+let f True = 3
+let f x:xs = 3
+let f False = False
+let f 1 = 1
+let f False = True
+let f False = 3
+let f 3 = 3
+let f False = False
+let f False = 3
+f 3
+f 3
+let f x = False
+let f True = True
+f 3
+f 3
+let f 3 = 3
+let f True = True
+let f True = 4
+f 2
+f 2
+let f 2 = 1
+let f 1 = 1
+f 1
+f 1
+let f 1 = 1
+f 1
+f 1
+let f 1 = 1
+f 1
+ f1
+f 1
+let f 1 = 1
+f 1
+f 1
+let f 1 = 1
+f 1 = 1
+f 1
+let f 1 = 1
+[]
+f 3
+let f y = y
+f True
+let f x = x
